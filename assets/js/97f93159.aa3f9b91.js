@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrecursos_trans=self.webpackChunkrecursos_trans||[]).push([[570],{8843:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/RecursosTrans/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
